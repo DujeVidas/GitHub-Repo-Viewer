@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-gray-100 shadow-2xl shadow-slate-200">
+  <header class="bg-gray-100 shadow-2xl shadow-slate-400 rounded-b-xl">
     <nav class="flex items-center justify-between container mx-auto px-4 py-2">
       <v-icon
         class="flex items-center"
